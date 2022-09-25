@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning-props.git/static/css/main.8d4d5daf.css",
+    "main.js": "/learning-props.git/static/js/main.3677b513.js",
+    "static/js/787.f0a1665d.chunk.js": "/learning-props.git/static/js/787.f0a1665d.chunk.js",
+    "index.html": "/learning-props.git/index.html",
+    "main.8d4d5daf.css.map": "/learning-props.git/static/css/main.8d4d5daf.css.map",
+    "main.3677b513.js.map": "/learning-props.git/static/js/main.3677b513.js.map",
+    "787.f0a1665d.chunk.js.map": "/learning-props.git/static/js/787.f0a1665d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d4d5daf.css",
+    "static/js/main.3677b513.js"
+  ]
+}
